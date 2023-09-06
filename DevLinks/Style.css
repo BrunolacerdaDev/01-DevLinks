@@ -41,8 +41,10 @@ body * {
 
 /*Mobile-Dark Container*/
 #mdcontainer {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
+  padding: 0px 24px;
 }
 /*Mobile-Dark Profile - IMG de Perfil*/
 #mdprofile {
