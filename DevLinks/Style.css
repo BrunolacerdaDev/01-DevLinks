@@ -15,6 +15,8 @@
   --surface-color-hover: rgba(0255, 255, 255, 0.05);
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
+  
+  
 }
 
 .light {
@@ -25,6 +27,7 @@
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/sun.svg);
+  
 }
 
 /*Seletor da Tag Body*/
@@ -38,6 +41,7 @@ body {
 body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color);
+  
 }
 
 /*Mobile-Dark Container*/
@@ -52,6 +56,7 @@ body * {
   padding: 24px;
 }
 #mdprofile img {
+  
   display: block;
   width: 112px;
   margin: auto;
